@@ -9,8 +9,7 @@ export const Home = () => {
                 Hi, I am Abhay Karan
             </h1>
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt hic nihil recusandae amet voluptate quia veritatis, omnis ipsa, ex nulla suscipit dignissimos eum expedita pariatur. 
-            </p>
+                I’m a web developer who builds modern, responsive, and user-friendly websites using HTML, CSS, JavaScript, and React. I enjoy turning ideas into functional web applications and creating clean, efficient code that works across all devices.</p>
 
         <div className="flex justify-center space-x-4">
 
